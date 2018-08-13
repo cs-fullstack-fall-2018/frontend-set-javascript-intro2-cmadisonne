@@ -41,3 +41,5 @@ for (i=0; i<MaddiNumArray.length; i++)
 document.getElementById("something2").textContent=newNumArray2;
 
 //I hope this is what you're asking for becuase I understand everything I just did
+
+// This is perfect Maddi. From Kenn.
